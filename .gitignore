@@ -1,0 +1,22 @@
+# Bỏ qua các file cấu hình của hệ điều hành và IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Bỏ qua các file cache của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua môi trường ảo
+venv/
+.venv/
+env/
+.env
+
+# Bỏ qua data (vì đã dùng DVC)
+data/
+
+# Bỏ qua file notebook checkpoints
+.ipynb_checkpoints/
