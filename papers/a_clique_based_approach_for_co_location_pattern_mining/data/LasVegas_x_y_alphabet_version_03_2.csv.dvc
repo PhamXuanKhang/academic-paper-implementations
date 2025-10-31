@@ -1,0 +1,6 @@
+outs:
+- md5: 69066bd8d10e4d9f0798899186160d97
+  size: 693805
+  isexec: true
+  hash: md5
+  path: LasVegas_x_y_alphabet_version_03_2.csv
