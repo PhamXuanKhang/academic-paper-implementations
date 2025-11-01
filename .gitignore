@@ -15,8 +15,5 @@ venv/
 env/
 .env
 
-# Bỏ qua data (vì đã dùng DVC)
-data/
-
 # Bỏ qua file notebook checkpoints
 .ipynb_checkpoints/
