@@ -392,7 +392,7 @@ for threshold in [100.0, 160.0, 200.0, 500.0]:
 Sau khi chạy, bạn sẽ có:
 
 ```
-papers/a_clique_based_approach_for_co_location_pattern_mining/
+papers/Joinless/
 ├── build_dataset.py          # File này
 ├── LasVegas_cache.pkl        # Cache file (tự động tạo)
 └── ...
