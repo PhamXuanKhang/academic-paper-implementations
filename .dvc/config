@@ -1,0 +1,4 @@
+[core]
+    remote = azure-remote
+['remote "azure-remote"']
+    url = azure://paper-implement-data
