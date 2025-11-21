@@ -37,7 +37,7 @@ Bạn có hai lựa chọn:
 
 | Tên Paper (Link tới PDF) | Lĩnh vực | Trạng thái | Người thực hiện | Link Code |
 | :--- | :--- | :--- | :--- | :--- |
-| **[A Joinless Approach for Mining Spatial Colocation Patterns)](https://sci-hub.hlgczx.com/10.1109/tkde.2006.150)** | `data mining`, `knowdledge discovery` | 🚧 Đang thực hiện | `@PhamXuanKhang` | [`./papers/spatial_data_mining/A_Joinless_Approach_for_Mining_Spatial_Colocation_Patterns`](./papers/spatial_data_mining/A_Joinless_Approach_for_Mining_Spatial_Colocation_Patterns) |
+| **[A Joinless Approach for Mining Spatial Colocation Patterns)](https://sci-hub.hlgczx.com/10.1109/tkde.2006.150)** | `data mining`, `knowdledge discovery` | 🚧 Đang thực hiện |  | [`./papers/spatial_data_mining/A_Joinless_Approach_for_Mining_Spatial_Colocation_Patterns`](./papers/spatial_data_mining/A_Joinless_Approach_for_Mining_Spatial_Colocation_Patterns) |
 | **[Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10856853)** | `LLM`, ` medical images` | 💡 Lên kế hoạch | (Chưa có) | (Chưa có) |
 | *(Thêm paper mới vào đây)* | | | | |
 
